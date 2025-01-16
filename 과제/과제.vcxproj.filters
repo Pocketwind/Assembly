@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\과제2">
+      <UniqueIdentifier>{241f2c25-849a-490f-b573-b724e0716b30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\과제3">
+      <UniqueIdentifier>{d5e8e661-07c0-4d27-825e-d347f901a6c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\과제4">
+      <UniqueIdentifier>{203c2f47-fc04-4a00-9aaa-30cdac9bf665}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\과제5">
+      <UniqueIdentifier>{03f7e5c0-2f27-4a42-a982-3f7db03ee402}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\과제6">
+      <UniqueIdentifier>{59bc5dd9-ce2c-4d77-9151-9e22074fea00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\과제7">
+      <UniqueIdentifier>{d0c98d00-a89c-40af-b2eb-5ee0d4f98636}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="과제2\1번.asm">
+      <Filter>소스 파일\과제2</Filter>
+    </MASM>
+    <MASM Include="과제2\2번.asm">
+      <Filter>소스 파일\과제2</Filter>
+    </MASM>
+    <MASM Include="과제2\3번.asm">
+      <Filter>소스 파일\과제2</Filter>
+    </MASM>
+    <MASM Include="과제2\4번.asm">
+      <Filter>소스 파일\과제2</Filter>
+    </MASM>
+    <MASM Include="과제2\5번.asm">
+      <Filter>소스 파일\과제2</Filter>
+    </MASM>
+    <MASM Include="과제2\6번.asm">
+      <Filter>소스 파일\과제2</Filter>
+    </MASM>
+    <MASM Include="과제2\7번.asm">
+      <Filter>소스 파일\과제2</Filter>
+    </MASM>
+    <MASM Include="과제3\1번.asm">
+      <Filter>소스 파일\과제3</Filter>
+    </MASM>
+    <MASM Include="과제3\2번.asm">
+      <Filter>소스 파일\과제3</Filter>
+    </MASM>
+    <MASM Include="과제3\3번.asm">
+      <Filter>소스 파일\과제3</Filter>
+    </MASM>
+    <MASM Include="과제3\4번.asm">
+      <Filter>소스 파일\과제3</Filter>
+    </MASM>
+    <MASM Include="과제3\5번.asm">
+      <Filter>소스 파일\과제3</Filter>
+    </MASM>
+    <MASM Include="과제3\6번.asm">
+      <Filter>소스 파일\과제3</Filter>
+    </MASM>
+    <MASM Include="과제4\1번.asm">
+      <Filter>소스 파일\과제4</Filter>
+    </MASM>
+    <MASM Include="과제4\2번.asm">
+      <Filter>소스 파일\과제4</Filter>
+    </MASM>
+    <MASM Include="과제4\3번.asm">
+      <Filter>소스 파일\과제4</Filter>
+    </MASM>
+    <MASM Include="과제4\4번.asm">
+      <Filter>소스 파일\과제4</Filter>
+    </MASM>
+    <MASM Include="과제5\1번.asm">
+      <Filter>소스 파일\과제5</Filter>
+    </MASM>
+    <MASM Include="과제5\2번.asm">
+      <Filter>소스 파일\과제5</Filter>
+    </MASM>
+    <MASM Include="과제5\3번.asm">
+      <Filter>소스 파일\과제5</Filter>
+    </MASM>
+    <MASM Include="과제5\4번.asm">
+      <Filter>소스 파일\과제5</Filter>
+    </MASM>
+    <MASM Include="과제5\5번.asm">
+      <Filter>소스 파일\과제5</Filter>
+    </MASM>
+    <MASM Include="과제5\6번.asm">
+      <Filter>소스 파일\과제5</Filter>
+    </MASM>
+    <MASM Include="과제6\1번.asm">
+      <Filter>소스 파일\과제6</Filter>
+    </MASM>
+    <MASM Include="과제6\2번.asm">
+      <Filter>소스 파일\과제6</Filter>
+    </MASM>
+    <MASM Include="과제6\3번.asm">
+      <Filter>소스 파일\과제6</Filter>
+    </MASM>
+    <MASM Include="과제6\4번.asm">
+      <Filter>소스 파일\과제6</Filter>
+    </MASM>
+    <MASM Include="과제7\1-2번.asm">
+      <Filter>소스 파일\과제7</Filter>
+    </MASM>
+    <MASM Include="과제7\3-2번.asm">
+      <Filter>소스 파일\과제7</Filter>
+    </MASM>
+    <MASM Include="과제7\5-2번.asm">
+      <Filter>소스 파일\과제7</Filter>
+    </MASM>
+    <MASM Include="과제7\7-2번.asm">
+      <Filter>소스 파일\과제7</Filter>
+    </MASM>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="과제7\1-1번.c">
+      <Filter>소스 파일\과제7</Filter>
+    </ClCompile>
+    <ClCompile Include="과제7\2번.cpp">
+      <Filter>소스 파일\과제7</Filter>
+    </ClCompile>
+    <ClCompile Include="과제7\3-1번.cpp">
+      <Filter>소스 파일\과제7</Filter>
+    </ClCompile>
+    <ClCompile Include="과제7\4번.cpp">
+      <Filter>소스 파일\과제7</Filter>
+    </ClCompile>
+    <ClCompile Include="과제7\5-1번.cpp">
+      <Filter>소스 파일\과제7</Filter>
+    </ClCompile>
+    <ClCompile Include="과제7\6번.cpp">
+      <Filter>소스 파일\과제7</Filter>
+    </ClCompile>
+    <ClCompile Include="과제7\7-1번.cpp">
+      <Filter>소스 파일\과제7</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

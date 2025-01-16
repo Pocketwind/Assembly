@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cmshz\\OneDrive\\\uACF5\uBD80\\\uC5B4\uC148\uBE14\uB9AC\\\uACFC\uC81C\\\uACFC\uC81C4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1777123-C518-4327-8857-89541D81465F}|\uACFC\uC81C4.vcxproj|C:\\Users\\cmshz\\OneDrive\\\uACF5\uBD80\\\uC5B4\uC148\uBE14\uB9AC\\\uACFC\uC81C\\\uACFC\uC81C4\\2\uBC88.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B1777123-C518-4327-8857-89541D81465F}|\uACFC\uC81C4.vcxproj|solutionrelative:2\uBC88.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1777123-C518-4327-8857-89541D81465F}|\uACFC\uC81C4.vcxproj|C:\\Users\\cmshz\\OneDrive\\\uACF5\uBD80\\\uC5B4\uC148\uBE14\uB9AC\\\uACFC\uC81C\\\uACFC\uC81C4\\4\uBC88.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B1777123-C518-4327-8857-89541D81465F}|\uACFC\uC81C4.vcxproj|solutionrelative:4\uBC88.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1777123-C518-4327-8857-89541D81465F}|\uACFC\uC81C4.vcxproj|C:\\Users\\cmshz\\OneDrive\\\uACF5\uBD80\\\uC5B4\uC148\uBE14\uB9AC\\\uACFC\uC81C\\\uACFC\uC81C4\\3\uBC88.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B1777123-C518-4327-8857-89541D81465F}|\uACFC\uC81C4.vcxproj|solutionrelative:3\uBC88.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1777123-C518-4327-8857-89541D81465F}|\uACFC\uC81C4.vcxproj|C:\\Users\\cmshz\\OneDrive\\\uACF5\uBD80\\\uC5B4\uC148\uBE14\uB9AC\\\uACFC\uC81C\\\uACFC\uC81C4\\1\uBC88.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B1777123-C518-4327-8857-89541D81465F}|\uACFC\uC81C4.vcxproj|solutionrelative:1\uBC88.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "4\uBC88.asm",
+              "DocumentMoniker": "C:\\Users\\cmshz\\OneDrive\\\uACF5\uBD80\\\uC5B4\uC148\uBE14\uB9AC\\\uACFC\uC81C\\\uACFC\uC81C4\\4\uBC88.asm",
+              "RelativeDocumentMoniker": "4\uBC88.asm",
+              "ToolTip": "C:\\Users\\cmshz\\OneDrive\\\uACF5\uBD80\\\uC5B4\uC148\uBE14\uB9AC\\\uACFC\uC81C\\\uACFC\uC81C4\\4\uBC88.asm",
+              "RelativeToolTip": "4\uBC88.asm",
+              "ViewState": "AQIAADkAAAAAAAAAAAAiwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-18T06:22:36.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "3\uBC88.asm",
+              "DocumentMoniker": "C:\\Users\\cmshz\\OneDrive\\\uACF5\uBD80\\\uC5B4\uC148\uBE14\uB9AC\\\uACFC\uC81C\\\uACFC\uC81C4\\3\uBC88.asm",
+              "RelativeDocumentMoniker": "3\uBC88.asm",
+              "ToolTip": "C:\\Users\\cmshz\\OneDrive\\\uACF5\uBD80\\\uC5B4\uC148\uBE14\uB9AC\\\uACFC\uC81C\\\uACFC\uC81C4\\3\uBC88.asm",
+              "RelativeToolTip": "3\uBC88.asm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-17T05:59:30.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2\uBC88.asm",
+              "DocumentMoniker": "C:\\Users\\cmshz\\OneDrive\\\uACF5\uBD80\\\uC5B4\uC148\uBE14\uB9AC\\\uACFC\uC81C\\\uACFC\uC81C4\\2\uBC88.asm",
+              "RelativeDocumentMoniker": "2\uBC88.asm",
+              "ToolTip": "C:\\Users\\cmshz\\OneDrive\\\uACF5\uBD80\\\uC5B4\uC148\uBE14\uB9AC\\\uACFC\uC81C\\\uACFC\uC81C4\\2\uBC88.asm",
+              "RelativeToolTip": "2\uBC88.asm",
+              "ViewState": "AQIAABwAAAAAAAAAAAAowDIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-17T05:20:55.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "1\uBC88.asm",
+              "DocumentMoniker": "C:\\Users\\cmshz\\OneDrive\\\uACF5\uBD80\\\uC5B4\uC148\uBE14\uB9AC\\\uACFC\uC81C\\\uACFC\uC81C4\\1\uBC88.asm",
+              "RelativeDocumentMoniker": "1\uBC88.asm",
+              "ToolTip": "C:\\Users\\cmshz\\OneDrive\\\uACF5\uBD80\\\uC5B4\uC148\uBE14\uB9AC\\\uACFC\uC81C\\\uACFC\uC81C4\\1\uBC88.asm",
+              "RelativeToolTip": "1\uBC88.asm",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-17T05:00:26.736Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\실습1">
+      <UniqueIdentifier>{ac6d7802-4389-42ed-8125-ca1f1d85e2f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\실습2">
+      <UniqueIdentifier>{b7faae0a-3c36-4bdb-b5c2-aa1026c1abd1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\실습3">
+      <UniqueIdentifier>{b87bc3b8-420f-4674-abf0-941ad5c1c67d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\실습4">
+      <UniqueIdentifier>{e3892004-dbd9-4209-9196-caf2ea0eeb89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\실습5">
+      <UniqueIdentifier>{d3ad65c2-5ee3-4578-90b2-3760b9a73dfd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\실습6">
+      <UniqueIdentifier>{5c175b19-7e9d-4b2c-af81-25616a034231}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\실습7">
+      <UniqueIdentifier>{1d94aed5-e7f3-49a8-b480-985ebe97e050}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\실습8">
+      <UniqueIdentifier>{bd59d6f5-8359-47be-ae5f-f507edacccf9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\실습9">
+      <UniqueIdentifier>{c8268a4a-960b-4ad4-ac7c-730b45af764f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="실습1\1번.asm">
+      <Filter>소스 파일\실습1</Filter>
+    </MASM>
+    <MASM Include="실습1\2번.asm">
+      <Filter>소스 파일\실습1</Filter>
+    </MASM>
+    <MASM Include="실습1\3번.asm">
+      <Filter>소스 파일\실습1</Filter>
+    </MASM>
+    <MASM Include="실습1\4번.asm">
+      <Filter>소스 파일\실습1</Filter>
+    </MASM>
+    <MASM Include="실습1\5번.asm">
+      <Filter>소스 파일\실습1</Filter>
+    </MASM>
+    <MASM Include="실습1\6번.asm">
+      <Filter>소스 파일\실습1</Filter>
+    </MASM>
+    <MASM Include="실습2\1번.asm">
+      <Filter>소스 파일\실습2</Filter>
+    </MASM>
+    <MASM Include="실습2\2번.asm">
+      <Filter>소스 파일\실습2</Filter>
+    </MASM>
+    <MASM Include="실습2\3번.asm">
+      <Filter>소스 파일\실습2</Filter>
+    </MASM>
+    <MASM Include="실습2\4번.asm">
+      <Filter>소스 파일\실습2</Filter>
+    </MASM>
+    <MASM Include="실습2\5번.asm">
+      <Filter>소스 파일\실습2</Filter>
+    </MASM>
+    <MASM Include="실습2\6번.asm">
+      <Filter>소스 파일\실습2</Filter>
+    </MASM>
+    <MASM Include="실습2\7번.asm">
+      <Filter>소스 파일\실습2</Filter>
+    </MASM>
+    <MASM Include="실습2\8번.asm">
+      <Filter>소스 파일\실습2</Filter>
+    </MASM>
+    <MASM Include="실습3\1번.asm">
+      <Filter>소스 파일\실습3</Filter>
+    </MASM>
+    <MASM Include="실습3\2번.asm">
+      <Filter>소스 파일\실습3</Filter>
+    </MASM>
+    <MASM Include="실습3\3번.asm">
+      <Filter>소스 파일\실습3</Filter>
+    </MASM>
+    <MASM Include="실습3\4번.asm">
+      <Filter>소스 파일\실습3</Filter>
+    </MASM>
+    <MASM Include="실습4\1번.asm">
+      <Filter>소스 파일\실습4</Filter>
+    </MASM>
+    <MASM Include="실습4\2번.asm">
+      <Filter>소스 파일\실습4</Filter>
+    </MASM>
+    <MASM Include="실습4\3번.asm">
+      <Filter>소스 파일\실습4</Filter>
+    </MASM>
+    <MASM Include="실습5\1번.asm">
+      <Filter>소스 파일\실습5</Filter>
+    </MASM>
+    <MASM Include="실습5\2번.asm">
+      <Filter>소스 파일\실습5</Filter>
+    </MASM>
+    <MASM Include="실습5\3번.asm">
+      <Filter>소스 파일\실습5</Filter>
+    </MASM>
+    <MASM Include="실습5\4번.asm">
+      <Filter>소스 파일\실습5</Filter>
+    </MASM>
+    <MASM Include="실습5\5번.asm">
+      <Filter>소스 파일\실습5</Filter>
+    </MASM>
+    <MASM Include="실습5\6번.asm">
+      <Filter>소스 파일\실습5</Filter>
+    </MASM>
+    <MASM Include="실습5\_arraysum_5번.asm">
+      <Filter>소스 파일\실습5</Filter>
+    </MASM>
+    <MASM Include="실습5\_arraysum_6번.asm">
+      <Filter>소스 파일\실습5</Filter>
+    </MASM>
+    <MASM Include="실습5\_display_5번.asm">
+      <Filter>소스 파일\실습5</Filter>
+    </MASM>
+    <MASM Include="실습5\_display_6번.asm">
+      <Filter>소스 파일\실습5</Filter>
+    </MASM>
+    <MASM Include="실습5\_prompt_5번.asm">
+      <Filter>소스 파일\실습5</Filter>
+    </MASM>
+    <MASM Include="실습5\_prompt_6번.asm">
+      <Filter>소스 파일\실습5</Filter>
+    </MASM>
+    <MASM Include="실습7\1-2번.asm">
+      <Filter>소스 파일\실습7</Filter>
+    </MASM>
+    <MASM Include="실습7\2-2번.asm">
+      <Filter>소스 파일\실습7</Filter>
+    </MASM>
+    <MASM Include="실습7\3-1번.asm">
+      <Filter>소스 파일\실습7</Filter>
+    </MASM>
+    <MASM Include="실습7\3-2번.asm">
+      <Filter>소스 파일\실습7</Filter>
+    </MASM>
+    <MASM Include="실습7\4-2번.asm">
+      <Filter>소스 파일\실습7</Filter>
+    </MASM>
+    <MASM Include="실습7\5-2번.asm">
+      <Filter>소스 파일\실습7</Filter>
+    </MASM>
+    <MASM Include="실습7\6-1번.asm">
+      <Filter>소스 파일\실습7</Filter>
+    </MASM>
+    <MASM Include="실습7\6-2번.asm">
+      <Filter>소스 파일\실습7</Filter>
+    </MASM>
+    <MASM Include="실습7\7-2번.asm">
+      <Filter>소스 파일\실습7</Filter>
+    </MASM>
+    <MASM Include="실습7\8-2번.asm">
+      <Filter>소스 파일\실습7</Filter>
+    </MASM>
+    <MASM Include="실습8\1-2번.asm">
+      <Filter>소스 파일\실습8</Filter>
+    </MASM>
+    <MASM Include="실습9\3-2번.asm">
+      <Filter>소스 파일\실습9</Filter>
+    </MASM>
+    <MASM Include="실습9\4-2번.asm">
+      <Filter>소스 파일\실습9</Filter>
+    </MASM>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="실습5\sum.inc">
+      <Filter>소스 파일\실습5</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="실습6\1번.cpp">
+      <Filter>소스 파일\실습6</Filter>
+    </ClCompile>
+    <ClCompile Include="실습6\2번.cpp">
+      <Filter>소스 파일\실습6</Filter>
+    </ClCompile>
+    <ClCompile Include="실습6\3번.cpp">
+      <Filter>소스 파일\실습6</Filter>
+    </ClCompile>
+    <ClCompile Include="실습6\4번.cpp">
+      <Filter>소스 파일\실습6</Filter>
+    </ClCompile>
+    <ClCompile Include="실습6\5번.cpp">
+      <Filter>소스 파일\실습6</Filter>
+    </ClCompile>
+    <ClCompile Include="실습7\1-1번.cpp">
+      <Filter>소스 파일\실습7</Filter>
+    </ClCompile>
+    <ClCompile Include="실습7\2-1번.cpp">
+      <Filter>소스 파일\실습7</Filter>
+    </ClCompile>
+    <ClCompile Include="실습7\4-1번.cpp">
+      <Filter>소스 파일\실습7</Filter>
+    </ClCompile>
+    <ClCompile Include="실습7\5-1번.cpp">
+      <Filter>소스 파일\실습7</Filter>
+    </ClCompile>
+    <ClCompile Include="실습7\7-1번.cpp">
+      <Filter>소스 파일\실습7</Filter>
+    </ClCompile>
+    <ClCompile Include="실습7\8-1번.cpp">
+      <Filter>소스 파일\실습7</Filter>
+    </ClCompile>
+    <ClCompile Include="실습8\1-1번.cpp">
+      <Filter>소스 파일\실습8</Filter>
+    </ClCompile>
+    <ClCompile Include="실습9\1번.cpp">
+      <Filter>소스 파일\실습9</Filter>
+    </ClCompile>
+    <ClCompile Include="실습9\2번.cpp">
+      <Filter>소스 파일\실습9</Filter>
+    </ClCompile>
+    <ClCompile Include="실습9\3-1번.cpp">
+      <Filter>소스 파일\실습9</Filter>
+    </ClCompile>
+    <ClCompile Include="실습9\4-1번.cpp">
+      <Filter>소스 파일\실습9</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="실습6\translat.h">
+      <Filter>소스 파일\실습6</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
